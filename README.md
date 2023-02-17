@@ -1,7 +1,7 @@
 # Artverse
 
 
-Features:
+# Features:
 
 1.User profile:
       a.Create and complete a profile
