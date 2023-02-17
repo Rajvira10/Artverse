@@ -3,36 +3,36 @@
 
 # Features:
 
-1.User profile:
+1.User profile: <br>
       a.Create and complete a profile <br>
-      b.View personal information
-      c.Update profile information
+      b.View personal information <br>
+      c.Update profile information  <br>
       d.View portfolio
 
 
-2.Artwork management:
-      a.Upload and manage artwork
-      b.Organize artwork into collections
-      c.Receive feedback on artwork
+2.Artwork management:  <br>
+      a.Upload and manage artwork <br>
+      b.Organize artwork into collections <br>
+      c.Receive feedback on artwork <br>
       d.Edit artwork information and pricing
 
 
-3.Art discovery:
-      a.Browse art from a variety of artists
-      b.Search for specific artists or artworks
-      c.View art recommendations
-      d.Save art to a favorites list
+3.Art discovery: <br>
+      a.Browse art from a variety of artists <br>
+      b.Search for specific artists or artworks <br>
+      c.View art recommendations <br>
+      d.Save art to a favorites list <br>
 
 
-4.Art marketplace:
-      a.Buy and sell artwork
-      b.View purchase history
-      c.Receive notifications for purchases and sales
-      d.Pay for purchases and receive payment for sales
+4.Art marketplace: <br>
+      a.Buy and sell artwork <br>
+      b.View purchase history <br>
+      c.Receive notifications for purchases and sales  <br>
+      d.Pay for purchases and receive payment for sales <br>
 
 
-5.Art community:
-      a.Connect with other artists and art enthusiasts
-      b.View other profiles
-      c.Follow other artists and art enthusiasts
+5.Art community: <br>
+      a.Connect with other artists and art enthusiasts <br>
+      b.View other profiles <br>
+      c.Follow other artists and art enthusiasts <br>
       d.Share and like artwork
