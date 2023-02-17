@@ -4,7 +4,7 @@
 # Features:
 
 1.User profile:
-      a.Create and complete a profile
+      a.Create and complete a profile <br>
       b.View personal information
       c.Update profile information
       d.View portfolio
