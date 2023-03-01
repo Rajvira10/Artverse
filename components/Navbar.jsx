@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const Navbar = () => {
@@ -8,10 +9,10 @@ const Navbar = () => {
                 ARTVERSE
             </div>
             <ul className='w-9/12 md:w-7/12 lg:w-5/12 flex justify-between items-center text-slate-800'>
-                <li className='cursor-pointer '>Browse</li>
-                <li className='cursor-pointer'>Artists</li>
-                <li className='cursor-pointer'>Marketplace</li>
-                <li className='cursor-pointer btn btn--stripe'>Sign In</li>
+                <Link href="/browse"><li className='cursor-pointer '>Browse</li></Link>
+                <Link href="/artists"><li className='cursor-pointer'>Artists</li></Link>
+                <Link href="marketplace"><li className='cursor-pointer'>Marketplace</li> </Link> 
+                <Link href="/signin"><li className='cursor-pointer btn btn--stripe'>Sign In</li></Link> 
             </ul>
         </div>
 
